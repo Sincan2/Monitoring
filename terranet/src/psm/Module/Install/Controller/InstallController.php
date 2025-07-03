@@ -1,22 +1,22 @@
 <?php
 
 /**
- * TerraNet Monitoring
+ * PHP TERRANET MONITORING
  * Monitor your servers and websites.
  *
- * This file is part of TerraNet Monitoring.
- * TerraNet Monitoring is free software: you can redistribute it and/or modify
+ * This file is part of PHP TERRANET MONITORING.
+ * PHP TERRANET MONITORING is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * TerraNet Monitoring is distributed in the hope that it will be useful,
+ * PHP TERRANET MONITORING is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with TerraNet Monitoring.  If not, see <http://www.gnu.org/licenses/>.
+ * along with PHP TERRANET MONITORING.  If not, see <http://www.gnu.org/licenses/>.
  *
  * @package     phpservermon
  * @author      Pepijn Over <pep@mailbox.org>
@@ -79,7 +79,7 @@ class InstallController extends AbstractController
             (version_compare($phpv, '7.0.8', '<') && version_compare($phpv, '7.0.0', '>='))
         ) {
             $errors++;
-            $this->addMessage('PHP 5.6.0+ or 7.0.8+ is required to run TerraNet Monitoring. You\'re using ' .
+            $this->addMessage('PHP 5.6.0+ or 7.0.8+ is required to run PHP TERRANET MONITORING. You\'re using ' .
                 $phpv . '.', 'error');
         } else {
             $this->addMessage('PHP version: ' . $phpv, 'success');

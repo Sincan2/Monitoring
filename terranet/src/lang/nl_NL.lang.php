@@ -1,22 +1,22 @@
 <?php
 
 /**
- * TerraNet Monitoring
+ * PHP TERRANET MONITORING
  * Monitor your servers and websites.
  *
- * This file is part of TerraNet Monitoring.
- * TerraNet Monitoring is free software: you can redistribute it and/or modify
+ * This file is part of PHP TERRANET MONITORING.
+ * PHP TERRANET MONITORING is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * TerraNet Monitoring is distributed in the hope that it will be useful,
+ * PHP TERRANET MONITORING is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with TerraNet Monitoring.  If not, see <http://www.gnu.org/licenses/>.
+ * along with PHP TERRANET MONITORING.  If not, see <http://www.gnu.org/licenses/>.
  *
  * @package     phpservermon
  * @author      Pepijn Over <pep@mailbox.org>
@@ -36,7 +36,7 @@ $sm_lang = array(
     'locale_tag' => 'nl',
     'locale_dir' => 'ltr',
     'system' => array(
-        'title' => 'Server Monitor',
+        'title' => 'TERRANET MONITORING',
         'install' => 'Installeren',
         'action' => 'Actie',
         'save' => 'Opslaan',
@@ -369,7 +369,7 @@ $sm_lang = array(
         'password_repeat' => 'Herhaal wachtwoord',
         'password_forgot' => 'Wachtwoord vergeten?',
         'password_reset' => 'Wachtwoord herstellen',
-        'password_reset_email_subject' => 'Wijzig je wachtwoord voor TerraNet Monitoring',
+        'password_reset_email_subject' => 'Wijzig je wachtwoord voor PHP TERRANET MONITORING',
         'password_reset_email_body' => 'Gebruik de onderstaande link om je wachtwoord te wijzigen. Let op, deze link
  verloopt na 1 uur.<br><br>%link%',
         'error_user_incorrect' => 'De opgegeven gebruikersnaam is onjuist.',

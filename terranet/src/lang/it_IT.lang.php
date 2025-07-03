@@ -1,22 +1,22 @@
 <?php
 
 /**
- * TerraNet Monitoring
+ * PHP TERRANET MONITORING
  * Monitor your servers and websites.
  *
- * This file is part of TerraNet Monitoring.
- * TerraNet Monitoring is free software: you can redistribute it and/or modify
+ * This file is part of PHP TERRANET MONITORING.
+ * PHP TERRANET MONITORING is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * TerraNet Monitoring is distributed in the hope that it will be useful,
+ * PHP TERRANET MONITORING is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with TerraNet Monitoring.  If not, see <http://www.gnu.org/licenses/>.
+ * along with PHP TERRANET MONITORING.  If not, see <http://www.gnu.org/licenses/>.
  *
  * @package     phpservermon
  * @author      Marco Gargani <http://www.marcogargani.it>
@@ -37,7 +37,7 @@ $sm_lang = array(
     'locale_tag' => 'it',
     'locale_dir' => 'ltr',
     'system' => array(
-        'title' => 'Server Monitor',
+        'title' => 'TERRANET MONITORING',
         'install' => 'Installa',
         'action' => 'Azione',
         'save' => 'Salva',
@@ -303,7 +303,7 @@ $sm_lang = array(
         'password_repeat' => 'Ripeti password',
         'password_forgot' => 'Password dimenticata?',
         'password_reset' => 'Reimposta password',
-        'password_reset_email_subject' => 'Reimpossta la tua password per TerraNet Monitoring',
+        'password_reset_email_subject' => 'Reimpossta la tua password per PHP TERRANET MONITORING',
         'password_reset_email_body' => 'Usa il seguente link per reimpostare la tua password. Ricordati che scade tra
  un ora.<br><br>%link%',
         'error_user_incorrect' => 'Il nome utente inserito non è staot trovato.',

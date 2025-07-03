@@ -1,22 +1,22 @@
 <?php
 
 /**
- * TerraNet Monitoring
+ * PHP TERRANET MONITORING
  * Monitor your servers and websites.
  *
- * This file is part of TerraNet Monitoring.
- * TerraNet Monitoring is free software: you can redistribute it and/or modify
+ * This file is part of PHP TERRANET MONITORING.
+ * PHP TERRANET MONITORING is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * TerraNet Monitoring is distributed in the hope that it will be useful,
+ * PHP TERRANET MONITORING is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with TerraNet Monitoring.  If not, see <http://www.gnu.org/licenses/>.
+ * along with PHP TERRANET MONITORING.  If not, see <http://www.gnu.org/licenses/>.
  *
  * @package     phpservermon
  * @author      Jean Pierre Kolb <http://www.jpkc.com/>
@@ -36,7 +36,7 @@ $sm_lang = array(
     'locale_tag' => 'de',
     'locale_dir' => 'ltr',
     'system' => array(
-        'title' => 'Server Monitor',
+        'title' => 'TERRANET MONITORING',
         'install' => 'Installation',
         'action' => 'Aktion',
         'save' => 'Speichern',
@@ -311,7 +311,7 @@ $sm_lang = array(
         'password_repeat' => 'Passwort wiederholen',
         'password_forgot' => 'Passwort vergessen?',
         'password_reset' => 'Passwort zurücksetzen',
-        'password_reset_email_subject' => 'Setzen Sie Ihr Zugangspasswort für den Server Monitor',
+        'password_reset_email_subject' => 'Setzen Sie Ihr Zugangspasswort für den TERRANET MONITORING',
         'password_reset_email_body' => 'Benutzen Sie bitte den folgenden Link, um Ihr Zugangspasswort zurückzusetzen.
  Bitte beachten Sie: Der Link verfällt in 1 Stunde.<br><br>%link%',
         'error_user_incorrect' => 'Der angegebene Benutzername konnte nicht gefunden werden.',

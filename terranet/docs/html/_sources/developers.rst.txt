@@ -11,7 +11,7 @@ If you would like to contribute a patch or feature, please fork the develop bran
 Languages
 +++++++++
 
-The server monitor uses language files, which are stored in the directory "src/lang".
+The TERRANET MONITORING uses language files, which are stored in the directory "src/lang".
 The name of the language file consists of the language code (ISO 639-1) and the country code (ISO 3166-1), separated by an underscore.
 The extension is ".lang.php".
 

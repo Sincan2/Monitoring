@@ -1,22 +1,22 @@
 <?php
 
 /**
- * TerraNet Monitoring
+ * PHP TERRANET MONITORING
  * Monitor your servers and websites.
  *
- * This file is part of TerraNet Monitoring.
- * TerraNet Monitoring is free software: you can redistribute it and/or modify
+ * This file is part of PHP TERRANET MONITORING.
+ * PHP TERRANET MONITORING is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * TerraNet Monitoring is distributed in the hope that it will be useful,
+ * PHP TERRANET MONITORING is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with TerraNet Monitoring.  If not, see <http://www.gnu.org/licenses/>.
+ * along with PHP TERRANET MONITORING.  If not, see <http://www.gnu.org/licenses/>.
  *
  * @package     phpservermon
  * @author      Luiz Alberto S. Ribeiro <madeinnordeste@gmail.com>
@@ -36,7 +36,7 @@ $sm_lang = array(
     'locale_tag' => 'BR',
     'locale_dir' => 'ltr',
     'system' => array(
-        'title' => 'Server Monitor',
+        'title' => 'TERRANET MONITORING',
         'install' => 'Instalar',
         'action' => 'Ação',
         'save' => 'Salvar',
@@ -304,7 +304,7 @@ $sm_lang = array(
         'password_repeat' => 'Repetir Senha',
         'password_forgot' => 'Perdeu a senha?',
         'password_reset' => 'Redefinir senha',
-        'password_reset_email_subject' => 'Redefinir sua senha para TerraNet Monitoring',
+        'password_reset_email_subject' => 'Redefinir sua senha para PHP TERRANET MONITORING',
         'password_reset_email_body' => 'Por favor use o link para redefinir sua senha. Este link irá expirar em 1
  hora.<br><br>%link%',
         'error_user_incorrect' => 'O username não pode ser encontrado.',

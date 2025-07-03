@@ -10,7 +10,7 @@ Upload files
 ------------
 
 The first step is to upload your files to your webserver where you can reach them.
-You can rename the folder of the server monitor without any problems.
+You can rename the folder of the TERRANET MONITORING without any problems.
 
 Run install.php
 ---------------
@@ -36,7 +36,7 @@ After you have created the config.php, run the install.php again to create the d
 Configure your installation
 ---------------------------
 
-Open the main page of the server monitor, by simply navigating to index.php. In the menu on the top find "Config",
+Open the main page of the TERRANET MONITORING, by simply navigating to index.php. In the menu on the top find "Config",
 it will open a page where you can change the necessary information for your tool.
 
 
@@ -77,7 +77,7 @@ To be able to run an installation from the repo, you need to run the following c
 Setting up a cronjob
 ++++++++++++++++++++
 
-In order to keep the server monitor up to date, the status updater has to run regularly.
+In order to keep the TERRANET MONITORING up to date, the status updater has to run regularly.
 If you're running this on a linux machine, the easiest way is to add a cronjob.
 If it is your own server or you have shell access and permission to open the crontab, locate the "crontab" file
 (usually in /etc/crontab, but depends on distro). Open the file (vi /etc/crontab), and add the following

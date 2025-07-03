@@ -7,7 +7,7 @@ Credits
 Credits
 +++++++
 
-The following people have contributed to the development of TerraNet Monitoring:
+The following people have contributed to the development of PHP TERRANET MONITORING:
 
 
 * Pepijn Over - https://github.com/dopeh
@@ -88,7 +88,7 @@ The following people have contributed to the development of TerraNet Monitoring:
 Translators
 +++++++++++
 
-The following people have contributed to the translation of TerraNet Monitoring:
+The following people have contributed to the translation of PHP TERRANET MONITORING:
 
 * Bulgarian
 
@@ -180,7 +180,7 @@ The following people have contributed to the translation of TerraNet Monitoring:
 Vendors
 +++++++
 
-The following libraries are being used by TerraNet Monitoring:
+The following libraries are being used by PHP TERRANET MONITORING:
 
 * Chart.js - http://chartjs.org/
 * Twitter Bootstrap - http://getbootstrap.com
